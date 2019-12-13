@@ -1,3 +1,4 @@
 #pragma once
 
+#define AUTO_SHIFT_TIMEOUT 135
 #define IGNORE_MOD_TAP_INTERRUPT
